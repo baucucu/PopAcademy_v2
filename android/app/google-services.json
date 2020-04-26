@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631400192561",
+    "firebase_url": "https://pop-academy.firebaseio.com",
+    "project_id": "pop-academy",
+    "storage_bucket": "pop-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631400192561:android:aa92996b31bb308e74d310",
+        "android_client_info": {
+          "package_name": "com.popacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631400192561-a1ggmub0iscmc6qtp9a7pmbs98kf6frj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsj1KVczJZohbp4DCSCCn31ky-20XwxZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631400192561-a1ggmub0iscmc6qtp9a7pmbs98kf6frj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
